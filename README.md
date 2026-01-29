@@ -103,6 +103,16 @@ This allows the full UI and CRUD flow to work without a backend.
   Basic UX handling (loading, errors, disabled buttons).
   UI styling is minimal to prioritize functionality.
 
+## Screenshots
+
+### Task List View
+
+![Task List View](screenshots/task-list-view.png)
+
+### Create Task Form
+
+![Create Task Form](screenshots/create-task-form.png)
+
 Abdulsalam Idris Oladimeji
-Frontend Developer
+Frontend Engineer
 Submitted as part of the Frontend Intern Technical Assessment.
