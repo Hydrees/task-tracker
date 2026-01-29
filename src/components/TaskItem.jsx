@@ -26,7 +26,7 @@ export default function TaskItem({ task, onUpdate, onDelete }) {
             </select>
 
 
-            <button onClick={() => onDelete(task._id)}>Delete</button>
+            <button onClick={() => onDelete(task._id)} className="text-red-500 text-xs hover:underline">Delete</button>
         </li>
     );
 }

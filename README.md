@@ -25,6 +25,26 @@ The goal of this assessment is to show frontend fundamentals such as:
 - React Hooks (`useState`, `useEffect`)
 - Mock API (frontend-only)
 
+## src/
+
+### api/
+
+- tasks.js # Mock API logic
+
+### components/
+
+- TaskForm.jsx # Create task form
+- TaskList.jsx # Task list view
+- TaskItem.jsx # Single task row with inline edit
+
+### config/
+
+- config.js # API base URL configuration
+
+## App.jsx # Main application logic
+
+## main.jsx
+
 ## Installation & Running the App
 
 1. Clone the repository:
