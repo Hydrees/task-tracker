@@ -1,4 +1,4 @@
-# Frontend Intern Technical Assessment Task Tracker UI
+# Frontend Intern Technical Assessment Task Tracker
 
 This project is a simple **React Task Tracker** frontend that demonstrates basic **CRUD operations (Create, Read, Update, Delete)** .
 
